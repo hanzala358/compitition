@@ -1,0 +1,16 @@
+.btn-1{
+    background-color:#d62300;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+}
+.btn-2{
+    background-color:#502314;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    margin-right: 40px;
+}
